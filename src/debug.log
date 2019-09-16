@@ -1,0 +1,4 @@
+[0915/234836.739:ERROR:settings.cc(325)] Settings version is not 1
+[0915/234836.759:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0916/002755.882:ERROR:settings.cc(325)] Settings version is not 1
+[0916/002755.887:ERROR:crash_report_database_win.cc(469)] failed to stat report
