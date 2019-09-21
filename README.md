@@ -5,5 +5,5 @@ uma linguagem que não conhecemos para fazer uma regra de medias..
 <h2> Capa Ilustrativa da Atividade</h2>
 
 
-![capa](https://user-images.githubusercontent.com/27506588/64932987-fe5f8b80-d818-11e9-896b-66d51abd8bee.jpg)
+![image](https://user-images.githubusercontent.com/27506588/65372840-90b5c400-dc4b-11e9-905e-8e7579c0b950.png)
 
